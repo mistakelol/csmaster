@@ -1,0 +1,12 @@
+{
+    "name": "mistakebr/csmaster",
+    "description": "Improve your CS",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Felipe Martins",
+            "email": "lipeh.bp@gmail.com"
+        }
+    ]
+}
